@@ -3,16 +3,16 @@
 		"width": 360,
 		"height": 200,
 		"order": 3,
-		"offsetX": -402,
-		"offsetY": -353,
+		"offsetX": -75,
+		"offsetY": 197,
 		"enabled": true
 	},
 	"hiCard": {
 		"width": 360,
 		"height": 288,
 		"order": 1,
-		"offsetX": -176,
-		"offsetY": -126,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": true
 	},
 	"clockCard": {
@@ -20,16 +20,16 @@
 		"height": 132,
 		"offset": 92,
 		"order": 4,
-		"offsetX": 467,
-		"offsetY": -102,
+		"offsetX": 452,
+		"offsetY": -157,
 		"enabled": true
 	},
 	"calendarCard": {
-		"width": 315,
-		"height": 269,
+		"width": 350,
+		"height": 286,
 		"order": 5,
-		"offsetX": 387,
-		"offsetY": 44,
+		"offsetX": 340,
+		"offsetY": -1,
 		"enabled": true
 	},
 	"musicCard": {
@@ -37,56 +37,56 @@
 		"height": 66,
 		"offset": 120,
 		"order": 6,
-		"offsetX": 407,
-		"offsetY": 324,
+		"offsetX": 389,
+		"offsetY": 305,
 		"enabled": true
 	},
 	"socialButtons": {
-		"width": 188,
-		"height": 60,
+		"width": 209,
+		"height": 56,
 		"order": 6,
-		"offsetX": -414,
-		"offsetY": 341,
+		"offsetX": -421,
+		"offsetY": 345,
 		"enabled": true
 	},
 	"shareCard": {
-		"width": 264,
-		"height": 168,
+		"width": 260,
+		"height": 156,
 		"order": 7,
-		"offsetX": -700,
-		"offsetY": 225,
+		"offsetX": -695,
+		"offsetY": 236,
 		"enabled": true
 	},
 	"articleCard": {
-		"width": 271,
-		"height": 112,
+		"width": 264,
+		"height": 121,
 		"order": 8,
-		"offsetX": -700,
-		"offsetY": 94,
+		"offsetX": -694,
+		"offsetY": 104,
 		"enabled": true
 	},
 	"writeButtons": {
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": 503,
-		"offsetY": -343,
+		"offsetX": 496,
+		"offsetY": -335,
 		"enabled": true
 	},
 	"navCard": {
 		"width": 280,
 		"height": 434,
 		"order": 2,
-		"offsetX": -700,
-		"offsetY": -350,
+		"offsetX": -701,
+		"offsetY": -349,
 		"enabled": true
 	},
 	"likePosition": {
 		"width": 54,
 		"height": 54,
 		"order": 8,
-		"offsetX": -208,
-		"offsetY": 340,
+		"offsetX": -186,
+		"offsetY": 345,
 		"enabled": true
 	},
 	"hatCard": {
