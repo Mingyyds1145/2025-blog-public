@@ -37,25 +37,9 @@
 		{
 			"id": "",
 			"url": ""
-		},
-		{
-			"id": "url-1765550764256",
-			"url": "https://cdn.jsdelivr.net/gh/Mingyyds1145/Resources@main/img/Ayanami%20Rei.webp"
-		},
-		{
-			"id": "url-1765550791527",
-			"url": "https://cdn.jsdelivr.net/gh/Mingyyds1145/Resources@main/img/bg3.webp"
-		},
-		{
-			"id": "url-1765550839264",
-			"url": "https://cdn.jsdelivr.net/gh/Mingyyds1145/Resources@main/img/%E5%B0%8F%E9%B8%9F%E6%B8%B8%E5%85%AD%E8%8A%B1.webp"
-		},
-		{
-			"id": "url-1765550860384",
-			"url": "https://cdn.jsdelivr.net/gh/Mingyyds1145/Resources@main/img/%E5%B8%83%E5%90%89%E5%B2%9B-%E6%A8%B1%E8%90%BD.webp"
 		}
 	],
-	"currentBackgroundImageId": "url-1765550764256",
+	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
 			"id": "github",
