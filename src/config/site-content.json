@@ -42,21 +42,21 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
-			"order": 3
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "ming_qwq@qq.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1765551783343",
+			"type": "qq",
+			"value": "1763470842",
+			"label": "",
+			"order": 2
 		}
 	],
-	"clockShowSeconds": true,
+	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
