@@ -1,10 +1,10 @@
 {
 	"artCard": {
-		"width": 360,
-		"height": 200,
+		"width": 376,
+		"height": 205,
 		"order": 3,
-		"offsetX": -75,
-		"offsetY": 197,
+		"offsetX": -72,
+		"offsetY": 182,
 		"enabled": true
 	},
 	"hiCard": {
@@ -42,11 +42,11 @@
 		"enabled": true
 	},
 	"socialButtons": {
-		"width": 209,
-		"height": 56,
+		"width": 119,
+		"height": 54,
 		"order": 6,
-		"offsetX": -421,
-		"offsetY": 345,
+		"offsetX": -433,
+		"offsetY": 343,
 		"enabled": true
 	},
 	"shareCard": {
@@ -85,9 +85,9 @@
 		"width": 54,
 		"height": 54,
 		"order": 8,
-		"offsetX": -186,
-		"offsetY": 345,
-		"enabled": true
+		"offsetX": -424,
+		"offsetY": 273,
+		"enabled": false
 	},
 	"hatCard": {
 		"width": 120,
