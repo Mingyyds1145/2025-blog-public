@@ -45,12 +45,12 @@
 		"width": 119,
 		"height": 54,
 		"order": 6,
-		"offsetX": -433,
-		"offsetY": 343,
+		"offsetX": -426,
+		"offsetY": 348,
 		"enabled": true
 	},
 	"shareCard": {
-		"width": 256,
+		"width": 270,
 		"height": 170,
 		"order": 7,
 		"offsetX": -696,
@@ -58,11 +58,11 @@
 		"enabled": true
 	},
 	"articleCard": {
-		"width": 264,
-		"height": 121,
+		"width": 271,
+		"height": 129,
 		"order": 8,
-		"offsetX": -696,
-		"offsetY": 101,
+		"offsetX": -697,
+		"offsetY": 94,
 		"enabled": true
 	},
 	"writeButtons": {
